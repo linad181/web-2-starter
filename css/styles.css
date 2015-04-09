@@ -1,1 +1,14 @@
 /* Your Styling */
+
+h1 {
+	background: #eee;
+
+	height: 100px;
+	width: 100px;
+
+	margin: 2em auto 0 auto;
+
+	/* Horizontal Centering */
+	text-align: center;
+	line-height: 100px;
+}
